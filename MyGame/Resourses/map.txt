@@ -1,0 +1,100 @@
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0                                                           g                                      0
+0     g        g                g                  g                    g                    g     0
+0                                     t    g                    q              g    q              0
+0               g     g                                 g            g                             0
+0    w                                         g                                        g          0
+0          g                     g                            t              g     t            q  0
+0    g                   q                                q                                        0
+0                 g                      g       g              g       q       g             g    0
+0                        g    t                         g                                          0
+0       g                          g           q                                   q       g       0
+0                   w                                      g                                       0
+0         g     g                      g                           q     g                         0
+0                           g                       g                              g          g    0
+0 g                q                      w                                                        0
+0     q      t                                                    g                         g      0
+0                   g                                                          g       t           0
+0         g                        g         g                                                     0
+0                          g                           g                                           0
+0                                                q                       g              g          0
+0  g    q                                                   t                                      0
+0              g         q       g         g                       g           t                   0
+0                                                                        w                         0
+0                  w     g                             g                        g                  0
+0      g                       t               g                                                   0
+0                g                                            g      g                    g        0
+0                                    g                                                             0
+0        t                  g              t                                    g                  0
+0                                                       g                                          0
+0        g          t                        g                           g                     g   0
+0                                                     t           t                                0
+0                  g        g      g       g                                          g            0
+0  g                                                           g           g                       0
+0            g           g                  g         g                                      g     0
+0                                   g                                                              0
+0                                                                             g         g          0
+0    g                                    t         g            g      t                          0
+0           g         g                                                                            0
+0                               g                                                               g  0
+0                       t               g                               g          g               0
+0   g                                                     g                                        0
+0                                                                           w             g        0
+0        t      g       g                                         g                                0
+0                                   t             g                                                0
+0                                     g                                      g                     0
+0  g                                                                               g               0
+0                                                                                           g      0
+0    g          g                                                                                  0
+0                              g           g                    g                      g           0
+0                                                                                                  0
+0                                                   g                       g                      0
+0                                                                                                  0
+0   g            g                                          g                                      0
+0                                   g                                                              0
+0                                                                     g                 g          0
+0                                            g        g                                            0
+0           g             g                                                                        0
+0                                                                                                  0
+0                                            g                                    g          g     0
+0                                  g                        g                                      0
+0g               g                                                                                 0
+0                                 g                                      g                         0
+0        g                                                                                         0
+0                    g                                                                   g         0
+0                                    g              g                                              0
+0                             g                                       g                            0
+0     g                                                                                            0
+0              g         g                         g                                               0
+0                                       g                   g                     g                0
+0                                                                                                  0
+0      g                    g                                        g                        g    0
+0g               g                                                                                 0
+0                                                    g                                             0
+0                 g                       g                                       g                0
+0                                                                         g                        0
+0   g                                                                                       g      0
+0                                                            g                                     0
+0                                              g                        g                          0
+0           g                g                                                     g               0
+0                                                                                                  0
+0                                                                                                  0
+0                                                                                    g             0
+0 g          w          g                 g                   g                             g      0
+0                                                                                                  0
+0                                                                            g                     0
+0          g                      g                  g                                             0
+0                                                                                                  0
+0                                                                                       g          0
+0                       g                 g                   g                                    0
+0                                                                                                  0
+0                                                     g                                            0
+0                  g              g                                                   g            0
+0         g                                                                g                       0
+0                                                                                                  0
+0                              g             g           g                                         0
+0  g                                              g                                         g      0
+0                  g                                                                               0
+0                                                                             g                    0
+0          g                       g                         g                                     0
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
